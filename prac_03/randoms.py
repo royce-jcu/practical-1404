@@ -26,7 +26,7 @@ What did you see on line 3?
 What was the smallest number you could have seen, what was the largest?
 
 line 3 shows that it returned a random floating point number between 2.5 and 5.5.
-The smallest number is 2.5 and the largest number is 5,5.
+The smallest number is 2.5 and the largest number is 5.5.
 """
 
 """
